@@ -59,13 +59,14 @@ _All listed speakers have been confirmed._ The coffee breaks, poster sessions, Q
 |:-------------|:-----------------------------------------------------------------------------------------------------------|:------------------------------| 
 | 9:00         | Introduction and Opening Remarks [[Jerry Lin](https://www.linkedin.com/in/jerry-lin-3a8801104/)]           | Introduction                  |
 | 9:10         | Invited Talk 1 [[Maria Molina](https://mariajmolina.github.io/), Keynote]                                  | Introduction                  |
-| 9:40         | Invited Talk 2 [[Sungduk Yu](https://www.linkedin.com/in/sungduk-yu/), ClimSim introduction and updates]   | Introduction                  |
-| 10:10        | ClimSim Poster Session / Break                                                                             | Spotlight ClimSim Submissions |   
-| 10:45        | ClimSim Spotlight Talk 1                                                                                   | Spotlight ClimSim Submissions |
-| 11:00        | ClimSim Spotlight Talk 2                                                                                   | Spotlight ClimSim Submissions |
-| 11:15        | ClimSim Spotlight Talk 3                                                                                   | Spotlight ClimSim Submissions |
-| 11:30        | ClimSim Spotlight Talk 4                                                                                   | Spotlight ClimSim Submissions |
-| 11:45        | ClimSim Spotlight Talk 5                                                                                   | Spotlight ClimSim Submissions |
+| 9:35         | Invited Talk 2 [[Sungduk Yu](https://www.linkedin.com/in/sungduk-yu/), ClimSim introduction and updates]   | Introduction                  |
+| 10:00        | ClimSim Poster Session                                                                                     | Spotlight ClimSim Submissions |
+| 10:30        | Coffee Break / Social                                                                                      | Break                         |
+| 11:00        | ClimSim Spotlight Talk 1                                                                                   | Spotlight ClimSim Submissions |
+| 11:12        | ClimSim Spotlight Talk 2                                                                                   | Spotlight ClimSim Submissions |
+| 11:24        | ClimSim Spotlight Talk 3                                                                                   | Spotlight ClimSim Submissions |
+| 11:36        | ClimSim Spotlight Talk 4                                                                                   | Spotlight ClimSim Submissions |
+| 11:48        | ClimSim Spotlight Talk 5                                                                                   | Spotlight ClimSim Submissions |
 | 12:00        | Networking Lunch                                                                                           | Lunch                         |          
 | 13:30        | Advancing the Domain Invited Talk [[Yilun Han](https://www.researchgate.net/profile/Yilun-Han-4)]          | Advancing the Domain          |
 | 13:55        | Advancing the Domain Invited Talk [[Kara Lamb](https://datascience.columbia.edu/people/kara-lamb/)]        | Advancing the Domain          |
