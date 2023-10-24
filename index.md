@@ -154,6 +154,19 @@ _All listed speakers have been confirmed._ The coffee breaks, poster sessions, Q
 
 [David Rolnick (he/him)](https://davidrolnick.com/) is an Assistant Professor and Canada CIFAR AI Chair in the School of Computer Science at McGill University and at Mila Quebec AI Institute, where his work focuses on applications of machine learning to help address climate change. He is a Co-founder and Chair of Climate Change AI and Scientific Co-director of Sustainability in the Digital Age. Dr. Rolnick received his Ph.D. in Applied Mathematics from MIT. He is a former NSF Mathematical Sciences Postdoctoral Research Fellow, NSF Graduate Research Fellow, and Fulbright Scholar, and was named to the MIT Technology Review's 2021 list of "35 Innovators Under 35."
 
+**Mike Pritchard (panelist)**
+
+<img src="photos/MikePritchard.jpeg" alt="Pritchard" width="100"/>
+
+[Mike Pritchard (he/him)](https://sites.ps.uci.edu/pritchard/) is the Director of Climate Simulation at NVIDIA, an associate professor of Earth System Science at UC Irvine, and the Institutional Integration Director for the NSF Learning the Earth with Artificial Intelligence and Physics (LEAP) Center. He works at the interface between next-generation climate simulation and machine learning. His main focus is on accelerating cloud-resolving climate simulations using physics-informed machine learning. He is also interested in reinforcement learning approaches to climate model calibration, understanding the limits of autoregressive weather simulations trained on observational data, and AI-assisted low-latency analysis of large high-resolution climate simulation datasets.
+
+**Galen McKinley (panelist)**
+
+<img src="photos/GalenMcKinley.jpg" alt="McKinley" width="100"/>
+
+[Galen McKinley (she/her)](https://galenmckinley.github.io/group/) is a Professor of Earth and Environmental Sciences at Columbia University and the Lamont-Doherty Earth Observatory. She is Deputy Director of the Center for Learning the Earth with Artificial Intelligence and Physics (LEAP), an NSF Science Technology Center (STC) for 2021-2026. Professor McKinley is an ocean, carbon cycle and climate scientist who uses machine learning with sparse ocean observations, as well as ocean and climate models, to understand the physical, chemical and ecological drivers of the ocean sink for anthropogenic carbon.
+
+
 # Organizers
 
 **Jerry Lin (UC Irvine)**
