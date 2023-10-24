@@ -85,6 +85,8 @@ _All listed speakers have been confirmed._ The coffee breaks, poster sessions, Q
 
 **Maria Molina (speaker + panelist)**
 
+<img src="photos/MariaMolina.jpeg" alt="Molina" width="100"/>
+
 [Maria J. Molina (she/her)](https://mariajmolina.github.io/) is an assistant professor of atmospheric and oceanic science at the University of Maryland, College Park, USA. She is also affiliated with the University of Maryland Institute for Advanced Computer Studies (UMIACS) and the National Center for Atmospheric Research (NCAR). Her research group focuses on better understanding Earth system predictability in a changing climate, along with societal links, using machine learning and numerical physics-based modeling systems. Maria is a member of the World Climate Research Programme (WCRP) Scientific Steering Group for the Earth System Modelling and Observations (ESMO) Core Project, serves as Vice Chair of the Committee on Artificial Intelligence Applications to Environmental Science of the American Meteorological Society (AMS), and is a member of the AMS Board on Representation, Accessibility, Inclusion, and Diversity.
 
 **Sungduk Yu (speaker)**
