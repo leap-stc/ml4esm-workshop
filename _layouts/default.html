@@ -19,13 +19,11 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
+
+        <a href="https://github.com/leap-stc/ClimSim" class="btn">ClimSim Github</a>
+        <a href="https://huggingface.co/LEAP" class="btn">ClimSim Hugging Face</a>
+        <a href="https://arxiv.org/abs/2306.08754" class="btn">ClimSim ArXiv</a>
+
     </header>
 
     <main id="content" class="main-content" role="main">
