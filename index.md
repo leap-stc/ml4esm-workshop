@@ -145,7 +145,7 @@ _All listed speakers have been confirmed._ The coffee breaks, poster sessions, Q
 
 **David Rolnick (speaker)**
 
-<img src="photos/DavidRolnickt.jpg" alt="Rolnick" width="100"/>
+<img src="photos/DavidRolnick.jpg" alt="Rolnick" width="100"/>
 
 [David Rolnick (he/him)](https://davidrolnick.com/) is an Assistant Professor and Canada CIFAR AI Chair in the School of Computer Science at McGill University and at Mila Quebec AI Institute, where his work focuses on applications of machine learning to help address climate change. He is a Co-founder and Chair of Climate Change AI and Scientific Co-director of Sustainability in the Digital Age. Dr. Rolnick received his Ph.D. in Applied Mathematics from MIT. He is a former NSF Mathematical Sciences Postdoctoral Research Fellow, NSF Graduate Research Fellow, and Fulbright Scholar, and was named to the MIT Technology Review's 2021 list of "35 Innovators Under 35."
 
