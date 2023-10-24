@@ -88,134 +88,178 @@ _All listed speakers have been confirmed._ The coffee breaks, poster sessions, Q
 
 # Invited Speakers and panelists
 
-**Maria Molina (speaker + panelist)**
+<div class="speakers-grid">
+<div class="speaker">
+<h2>Maria Molina (speaker + panelist)</h2>
+<div class="speaker-img"><div style="background-image: url('photos/MariaMolina.jpeg')"></div></div>
 
-<img src="photos/MariaMolina.jpeg" alt="Molina" width="100"/>
+<p><a href="https://mariajmolina.github.io">Maria J. Molina (she/her)</a> is an assistant professor of atmospheric and oceanic science at the University of Maryland, College Park, USA. She is also affiliated with the University of Maryland Institute for Advanced Computer Studies (UMIACS) and the National Center for Atmospheric Research (NCAR). Her research group focuses on better understanding Earth system predictability in a changing climate, along with societal links, using machine learning and numerical physics-based modeling systems. Maria is a member of the World Climate Research Programme (WCRP) Scientific Steering Group for the Earth System Modelling and Observations (ESMO) Core Project, serves as Vice Chair of the Committee on Artificial Intelligence Applications to Environmental Science of the American Meteorological Society (AMS), and is a member of the AMS Board on Representation, Accessibility, Inclusion, and Diversity.</p>
+</div>
 
-[Maria J. Molina (she/her)](https://mariajmolina.github.io/) is an assistant professor of atmospheric and oceanic science at the University of Maryland, College Park, USA. She is also affiliated with the University of Maryland Institute for Advanced Computer Studies (UMIACS) and the National Center for Atmospheric Research (NCAR). Her research group focuses on better understanding Earth system predictability in a changing climate, along with societal links, using machine learning and numerical physics-based modeling systems. Maria is a member of the World Climate Research Programme (WCRP) Scientific Steering Group for the Earth System Modelling and Observations (ESMO) Core Project, serves as Vice Chair of the Committee on Artificial Intelligence Applications to Environmental Science of the American Meteorological Society (AMS), and is a member of the AMS Board on Representation, Accessibility, Inclusion, and Diversity.
+<div class="speaker">
+<h2>Sungduk Yu (speaker)</h2>
 
-**Sungduk Yu (speaker)**
+<div class="speaker-img"><div style="background-image: url('photos/SungdukYu.jpeg')"></div></div>
 
-<img src="photos/SungdukYu.jpeg" alt="SungdukYu" width="100"/>
+<p><a href="https://www.linkedin.com/in/sungduk-yu/">Sungduk Yu (he/him)</a> is currently a project scientist at the University of California, Irvine, where he has been working on developing and integrating machine learning algorithms for earth system models. His main work has been on developing sub-grid physics emulators for convection and aerosol activation and on integrating Python-based ML models in Fortran-written earth system models. He is the lead author and active maintainer for ClimSim. Before this current position, he studied various topics in climate dynamics, including tropical precipitation, global energy transport and extreme El Niño events, during his postdoctoral training at Yale University and Ph.D. at the University of California, Irvine.</p>
+</div>
 
-[Sungduk Yu (he/him)](https://www.linkedin.com/in/sungduk-yu/) is currently a project scientist at the University of California, Irvine, where he has been working on developing and integrating machine learning algorithms for earth system models. His main work has been on developing sub-grid physics emulators for convection and aerosol activation and on integrating Python-based ML models in Fortran-written earth system models. He is the lead author and active maintainer for ClimSim. Before this current position, he studied various topics in climate dynamics, including tropical precipitation, global energy transport and extreme El Niño events, during his postdoctoral training at Yale University and Ph.D. at the University of California, Irvine.
+<div class="speaker">
+<h2>Yilun Han (speaker)</h2>
 
-**Yilun Han (speaker)**
+<div class="speaker-img"><div style="background-image: url('photos/YilunHan.jpg')"></div></div>
 
-<img src="photos/YilunHan.jpg" alt="Han" width="100"/>
+<p><a href="https://www.researchgate.net/profile/Yilun-Han-4">Yilun Han (he/him)</a> is a postdoctoral research fellow at Tsinghua University Center for Earth System Science. His work focuses on developing machine-learning based parameterizations for atmospheric moist physics and radiation processes within Global Climate Models (GCM). His research also covers generalizability of these parameterization schemes to different climate scenarios and stable integration of resulting coupled climate models. At the time of this writing, his latest work is the current state-of-the-art for deep learning convective parameterizations coupled to a GCM.</p>
+</div>
 
-[Yilun Han (he/him)](https://www.researchgate.net/profile/Yilun-Han-4) is a postdoctoral research fellow at Tsinghua University Center for Earth System Science. His work focuses on developing machine-learning based parameterizations for atmospheric moist physics and radiation processes within Global Climate Models (GCM). His research also covers generalizability of these parameterization schemes to different climate scenarios and stable integration of resulting coupled climate models. At the time of this writing, his latest work is the current state-of-the-art for deep learning convective parameterizations coupled to a GCM.
+<div class="speaker">
+<h2>Kara Lamb (speaker)</h2>
 
-**Kara Lamb (speaker)**
+<div class="speaker-img"><div style="background-image: url('photos/KaraLamb.jpeg')"></div></div>
 
-<img src="photos/KaraLamb.jpeg" alt="Lamb" width="100"/>
+<p><a href="https://datascience.columbia.edu/people/kara-lamb/">Kara Lamb (she/her)</a> is an Associate Research Scientist at Columbia University in the NSF Learning the Earth with Artificial Intelligence and Physics (LEAP) Center and collaborates with researchers at NASA GISS on the NASA Digital Twins for Climate Science Project. Her research lies at the intersection of observations (from laboratory and field studies) and high-resolution modeling, with the goal of improving climate model parameterizations of aerosol and cloud processes. She combines traditional process-based approaches with data science, scientific machine learning, and reduced-order modeling. She was on the science team for the NASA KORUS-AQ and AToM aircraft campaigns and the NOAA FIREX Firelab study, was the lead mentor for the 2022 Frontier Development Laboratory Europe challenge on Aerosols, and is a member of the AMS STAC Committee on AI Applications to Environmental Science.</p>
+</div>
 
-[Kara Lamb (she/her)](https://datascience.columbia.edu/people/kara-lamb/) is an Associate Research Scientist at Columbia University in the NSF Learning the Earth with Artificial Intelligence and Physics (LEAP) Center and collaborates with researchers at NASA GISS on the NASA Digital Twins for Climate Science Project. Her research lies at the intersection of observations (from laboratory and field studies) and high-resolution modeling, with the goal of improving climate model parameterizations of aerosol and cloud processes. She combines traditional process-based approaches with data science, scientific machine learning, and reduced-order modeling. She was on the science team for the NASA KORUS-AQ and AToM aircraft campaigns and the NOAA FIREX Firelab study, was the lead mentor for the 2022 Frontier Development Laboratory Europe challenge on Aerosols, and is a member of the AMS STAC Committee on AI Applications to Environmental Science.
+<div class="speaker">
+<h2>Marcus van Lier-Walqui (speaker)</h2>
 
-**Marcus van Lier-Walqui (speaker)**
+<div class="speaker-img"><div style="background-image: url('photos/Marcus-van-Lier-Walqui.jpg')"></div></div>
 
-<img src="photos/Marcus-van-Lier-Walqui.jpg" alt="Marcus-van-Lier-Walqui" width="100"/>
+<p><a href="https://ccsr.columbia.edu/people/marcus-van-lier-walqui">Marcus van Lier-Walqui (he/him)</a> is an Associate Research Scientist and has worked at CCSR and NASA/GISS since 2013, and is a Co-Investigator of the NSF Learning the Earth with Artificial Intelligence and Physics (LEAP) Center. His expertise is in using Bayesian inference methods to estimate parameters and quantify uncertainty in physical models of clouds and precipitation. This involves making comparison between observations, such as advanced polarimetric and profiling radars, and model simulations of weather. These efforts leverage the rich microphysical information content of observational systems to improve our understanding and model representation of cloud and precipitation processes. Furthermore, the Bayesian methodologies used allow for robust estimation of uncertainty that can inform forecast representations of physical process uncertainty, e.g. via probabilistic forecast ensembles.</p>
+</div>
 
-[Marcus van Lier-Walqui (he/him)](https://ccsr.columbia.edu/people/marcus-van-lier-walqui) is an Associate Research Scientist and has worked at CCSR and NASA/GISS since 2013, and is a Co-Investigator of the NSF Learning the Earth with Artificial Intelligence and Physics (LEAP) Center. His expertise is in using Bayesian inference methods to estimate parameters and quantify uncertainty in physical models of clouds and precipitation. This involves making comparison between observations, such as advanced polarimetric and profiling radars, and model simulations of weather. These efforts leverage the rich microphysical information content of observational systems to improve our understanding and model representation of cloud and precipitation processes. Furthermore, the Bayesian methodologies used allow for robust estimation of uncertainty that can inform forecast representations of physical process uncertainty, e.g. via probabilistic forecast ensembles.
+<div class="speaker">
+<h2>Stephan Mandt (speaker + panelist)</h2>
 
-**Stephan Mandt (speaker + panelist)**
+<div class="speaker-img"><div style="background-image: url('photos/StephanMandt.jpg')"></div></div>
 
-<img src="photos/StephanMandt.jpg" alt="Mandt" width="100"/>
+<p><a href="http://www.stephanmandt.com/">Stephan Mandt (he/him)</a> is an Associate Professor of Computer Science and Statistics at the University of California, Irvine. From 2016 until 2018, he was a Senior Researcher and Head of the statistical machine learning group at Disney Research in Pittsburgh and Los Angeles. He held previous postdoctoral positions at Columbia University and Princeton University. Stephan holds a Ph.D. in Theoretical Physics from the University of Cologne, where he received the German National Merit Scholarship. He is furthermore a recipient of the NSF CAREER Award, the UCI ICS Mid-Career Excellence in Research Award, the German Research Foundation's Mercator Fellowship, a Kavli Fellow of the U.S. National Academy of Sciences, a member of the ELLIS Society, and a former visiting researcher at Google Brain. Stephan is an Action Editor of the Journal of Machine Learning Research and Transaction on Machine Learning Research and currently serves as Program Chair for AISTATS 2024.</p>
+</div>
 
-[Stephan Mandt (he/him)](http://www.stephanmandt.com/) is an Associate Professor of Computer Science and Statistics at the University of California, Irvine. From 2016 until 2018, he was a Senior Researcher and Head of the statistical machine learning group at Disney Research in Pittsburgh and Los Angeles. He held previous postdoctoral positions at Columbia University and Princeton University. Stephan holds a Ph.D. in Theoretical Physics from the University of Cologne, where he received the German National Merit Scholarship. He is furthermore a recipient of the NSF CAREER Award, the UCI ICS Mid-Career Excellence in Research Award, the German Research Foundation's Mercator Fellowship, a Kavli Fellow of the U.S. National Academy of Sciences, a member of the ELLIS Society, and a former visiting researcher at Google Brain. Stephan is an Action Editor of the Journal of Machine Learning Research and Transaction on Machine Learning Research and currently serves as Program Chair for AISTATS 2024.
+<div class="speaker">
+<h2>Rose Yu (speaker + panelist)</h2>
 
-**Rose Yu (speaker + panelist)**
+<div class="speaker-img"><div style="background-image: url('photos/RoseYu.jpg')"></div></div>
 
-<img src="photos/RoseYu.jpg" alt="RoseYu" width="100"/>
+<p><a href="https://roseyu.com/">Dr. Rose Yu (she/her)</a> is an assistant professor at the University of California San Diego, Department of Computer Science and Engineering. Her research focuses on advancing machine learning techniques for large-scale spatiotemporal data analysis, with applications to sustainability, health, and physical sciences. A particular emphasis of her research is on physics-guided AI which aims to integrate first principles with data-driven models. Among her awards, she has won Army ECASE Award, NSF CAREER Award, Hellman Fellow, Faculty Research Award from JP Morgan, Facebook, Google, Amazon, and Adobe, Several Best Paper Awards, Best Dissertation Award at USC, and was nominated as one of the ’MIT Rising Stars in EECS’. </p>
+</div>
 
-[Dr. Rose Yu (she/her)](https://roseyu.com/) is an assistant professor at the University of California San Diego, Department of Computer Science and Engineering. Her research focuses on advancing machine learning techniques for large-scale spatiotemporal data analysis, with applications to sustainability, health, and physical sciences. A particular emphasis of her research is on physics-guided AI which aims to integrate first principles with data-driven models. Among her awards, she has won Army ECASE Award, NSF CAREER Award, Hellman Fellow, Faculty Research Award from JP Morgan, Facebook, Google, Amazon, and Adobe, Several Best Paper Awards, Best Dissertation Award at USC, and was nominated as one of the ’MIT Rising Stars in EECS’. 
+<div class="speaker">
+<h2>Aditi Krishnapriyan (speaker)</h2>
 
-**Aditi Krishnapriyan (speaker)**
+<div class="speaker-img"><div style="background-image: url('photos/AditiKrishnapriyan.png')"></div></div>
 
-<img src="photos/AditiKrishnapriyan.png" alt="Krishnapriyan" width="100"/>
+<p><a href="https://a1k12.github.io/">Aditi Krishnapriyan (she/her)</a> is an assistant professor of Chemical Engineering and EECS at UC Berkeley where she is also a member of Berkeley AI Research (BAIR) and part of the AI+Science group in EECS and the theory group in Chemical Engineering. She is interested in developing methods in machine learning that are driven by the distinct challenges and opportunities in the natural sciences, with particular interest in physics-inspired machine learning methods. Some areas of exploration include approaches to incorporate physical inductive biases (such as symmetries, conservation laws) into ML models to improve generalization for scientific problems, the advantages that ML can bring to classical physics-based numerical solvers (such as through end-to-end differentiable frameworks and implicit layers), and better learning strategies for distribution shifts in the physical sciences.</p>
+</div>
 
-[Aditi Krishnapriyan (she/her)](https://a1k12.github.io/) is an assistant professor of Chemical Engineering and EECS at UC Berkeley where she is also a member of Berkeley AI Research (BAIR) and part of the AI+Science group in EECS and the theory group in Chemical Engineering. She is interested in developing methods in machine learning that are driven by the distinct challenges and opportunities in the natural sciences, with particular interest in physics-inspired machine learning methods. Some areas of exploration include approaches to incorporate physical inductive biases (such as symmetries, conservation laws) into ML models to improve generalization for scientific problems, the advantages that ML can bring to classical physics-based numerical solvers (such as through end-to-end differentiable frameworks and implicit layers), and better learning strategies for distribution shifts in the physical sciences.
+<div class="speaker">
+<h2>Nils Thuerey (speaker)</h2>
 
-**Nils Thuerey (speaker)**
+<div class="speaker-img"><div style="background-image: url('photos/NilsThuerey.jpg')"></div></div>
 
-<img src="photos/NilsThuerey.jpg" alt="Thuerey" width="100"/>
+<p><a href="https://ge.in.tum.de/about/n-thuerey/">Nils Thuerey (he/him)</a> is an associate professor at the computer science department of the Technical University of Munich (TUM) where he leads a research group working on deep learning methods for physical simulations, with an emphasis on fluid flow problems. He has co-authored a freely available, Jupyter based textbook on physics-based deep learning, and his group has pioneered novel methods for improving the stability, rollout, and physical consistency of neural network-based PDE solvers. He is especially interested in solvers that employ traditional numerics alongside learned components, and, more recently, in leveraging diffusion modelling for improved neural simulations.</p>
+</div>
 
-[Nils Thuerey (he/him)](https://ge.in.tum.de/about/n-thuerey/) is an associate professor at the computer science department of the Technical University of Munich (TUM) where he leads a research group working on deep learning methods for physical simulations, with an emphasis on fluid flow problems. He has co-authored a freely available, Jupyter based textbook on physics-based deep learning, and his group has pioneered novel methods for improving the stability, rollout, and physical consistency of neural network-based PDE solvers. He is especially interested in solvers that employ traditional numerics alongside learned components, and, more recently, in leveraging diffusion modelling for improved neural simulations.
+<div class="speaker">
+<h2>Aditya Grover (speaker)</h2>
 
-**Aditya Grover (speaker)**
+<div class="speaker-img"><div style="background-image: url('photos/AdityaGrover.png')"></div></div>
 
-<img src="photos/AdityaGrover.png" alt="Grover" width="100"/>
+<p><a href="https://aditya-grover.github.io/">Aditya Grover (he/him)</a> is an assistant professor of computer science at UCLA. He leads the Machine Intelligence (MINT) group, where they develop AI systems that can interact and reason with limited supervision. His current research is at the intersection of generative models and sequential decision making, and their application for scientific reasoning. He also grounds this research via the ML4Climate initiative, where his group develops data-driven methods and software to accelerate scientific discovery for climate change applications. His research has been awarded the best paper award at NeurIPS, the ACM SIGKDD Doctoral Dissertation Award, the AI Researcher of the Year Award by Samsung, and the Kavli Fellowship by the US National Academy of Sciences. Aditya received his postdoctoral training from UC Berkeley, PhD from Stanford, and bachelors from IIT Delhi, all in computer science.</p>
+</div>
 
-[Aditya Grover (he/him)](https://aditya-grover.github.io/) is an assistant professor of computer science at UCLA. He leads the Machine Intelligence (MINT) group, where they develop AI systems that can interact and reason with limited supervision. His current research is at the intersection of generative models and sequential decision making, and their application for scientific reasoning. He also grounds this research via the ML4Climate initiative, where his group develops data-driven methods and software to accelerate scientific discovery for climate change applications. His research has been awarded the best paper award at NeurIPS, the ACM SIGKDD Doctoral Dissertation Award, the AI Researcher of the Year Award by Samsung, and the Kavli Fellowship by the US National Academy of Sciences. Aditya received his postdoctoral training from UC Berkeley, PhD from Stanford, and bachelors from IIT Delhi, all in computer science.
+<div class="speaker">
+<h2>David Rolnick (speaker)</h2>
 
-**David Rolnick (speaker)**
+<div class="speaker-img"><div style="background-image: url('photos/DavidRolnick.jpg')"></div></div>
 
-<img src="photos/DavidRolnick.jpg" alt="Rolnick" width="100"/>
+<p><a href="https://davidrolnick.com/">David Rolnick (he/him)</a> is an Assistant Professor and Canada CIFAR AI Chair in the School of Computer Science at McGill University and at Mila Quebec AI Institute, where his work focuses on applications of machine learning to help address climate change. He is a Co-founder and Chair of Climate Change AI and Scientific Co-director of Sustainability in the Digital Age. Dr. Rolnick received his Ph.D. in Applied Mathematics from MIT. He is a former NSF Mathematical Sciences Postdoctoral Research Fellow, NSF Graduate Research Fellow, and Fulbright Scholar, and was named to the MIT Technology Review's 2021 list of "35 Innovators Under 35."</p>
+</div>
 
-[David Rolnick (he/him)](https://davidrolnick.com/) is an Assistant Professor and Canada CIFAR AI Chair in the School of Computer Science at McGill University and at Mila Quebec AI Institute, where his work focuses on applications of machine learning to help address climate change. He is a Co-founder and Chair of Climate Change AI and Scientific Co-director of Sustainability in the Digital Age. Dr. Rolnick received his Ph.D. in Applied Mathematics from MIT. He is a former NSF Mathematical Sciences Postdoctoral Research Fellow, NSF Graduate Research Fellow, and Fulbright Scholar, and was named to the MIT Technology Review's 2021 list of "35 Innovators Under 35."
+<div class="speaker">
+<h2>Mike Pritchard (panelist)</h2>
 
-**Mike Pritchard (panelist)**
+<div class="speaker-img"><div style="background-image: url('photos/MikePritchard.jpeg')"></div></div>
 
-<img src="photos/MikePritchard.jpeg" alt="Pritchard" width="100"/>
+<p><a href="https://sites.ps.uci.edu/pritchard/">Mike Pritchard (he/him)</a> is the Director of Climate Simulation at NVIDIA, an associate professor of Earth System Science at UC Irvine, and the Institutional Integration Director for the NSF Learning the Earth with Artificial Intelligence and Physics (LEAP) Center. He works at the interface between next-generation climate simulation and machine learning. His main focus is on accelerating cloud-resolving climate simulations using physics-informed machine learning. He is also interested in reinforcement learning approaches to climate model calibration, understanding the limits of autoregressive weather simulations trained on observational data, and AI-assisted low-latency analysis of large high-resolution climate simulation datasets.</p>
+</div>
 
-[Mike Pritchard (he/him)](https://sites.ps.uci.edu/pritchard/) is the Director of Climate Simulation at NVIDIA, an associate professor of Earth System Science at UC Irvine, and the Institutional Integration Director for the NSF Learning the Earth with Artificial Intelligence and Physics (LEAP) Center. He works at the interface between next-generation climate simulation and machine learning. His main focus is on accelerating cloud-resolving climate simulations using physics-informed machine learning. He is also interested in reinforcement learning approaches to climate model calibration, understanding the limits of autoregressive weather simulations trained on observational data, and AI-assisted low-latency analysis of large high-resolution climate simulation datasets.
+<div class="speaker">
+<h2>Galen McKinley (panelist)</h2>
 
-**Galen McKinley (panelist)**
+<div class="speaker-img"><div style="background-image: url('photos/GalenMcKinley.jpg')"></div></div>
 
-<img src="photos/GalenMcKinley.jpg" alt="McKinley" width="100"/>
-
-[Galen McKinley (she/her)](https://galenmckinley.github.io/group/) is a Professor of Earth and Environmental Sciences at Columbia University and the Lamont-Doherty Earth Observatory. She is Deputy Director of the Center for Learning the Earth with Artificial Intelligence and Physics (LEAP), an NSF Science Technology Center (STC) for 2021-2026. Professor McKinley is an ocean, carbon cycle and climate scientist who uses machine learning with sparse ocean observations, as well as ocean and climate models, to understand the physical, chemical and ecological drivers of the ocean sink for anthropogenic carbon.
-
+<p><a href="https://galenmckinley.github.io/group/">Galen McKinley (she/her)</a> is a Professor of Earth and Environmental Sciences at Columbia University and the Lamont-Doherty Earth Observatory. She is Deputy Director of the Center for Learning the Earth with Artificial Intelligence and Physics (LEAP), an NSF Science Technology Center (STC) for 2021-2026. Professor McKinley is an ocean, carbon cycle and climate scientist who uses machine learning with sparse ocean observations, as well as ocean and climate models, to understand the physical, chemical and ecological drivers of the ocean sink for anthropogenic carbon.</p>
+</div>
+</div>
 
 # Organizers
 
-**Jerry Lin (UC Irvine)**
+<div class="speakers-grid">
+<div class="speaker">
+<h2>Jerry Lin (UC Irvine)</h2>
 
-<img src="photos/JerryLin.jpg" alt="Lin" width="100"/>
+<div class="speaker-img"><div style="background-image: url('photos/JerryLin.jpg')"></div></div>
 
-[Jerry Lin (he/him)](https://www.linkedin.com/in/jerry-lin-3a8801104/) is a PhD candidate at UC Irvine and graduate research assistant in the NSF Learning the Earth with Artificial Intelligence and Physics (LEAP) Center working on neural network emulators of convection and radiation coupled inside climate models. His current work involves developing and coupling stochastic parameterizations, and he previously developed push-button capabilities for multi-hundred ensemble tests for coupled hybrid physics-ML climate simulations. He is a co-author and active maintainer for ClimSim and an organizer for the upcoming Kaggle competition. He has previously managed a student-run data science course at UC Berkeley. 
+<p><a href="https://www.linkedin.com/in/jerry-lin-3a8801104/">Jerry Lin (he/him)</a> is a PhD candidate at UC Irvine and graduate research assistant in the NSF Learning the Earth with Artificial Intelligence and Physics (LEAP) Center working on neural network emulators of convection and radiation coupled inside climate models. His current work involves developing and coupling stochastic parameterizations, and he previously developed push-button capabilities for multi-hundred ensemble tests for coupled hybrid physics-ML climate simulations. He is a co-author and active maintainer for ClimSim and an organizer for the upcoming Kaggle competition. He has previously managed a student-run data science course at UC Berkeley. </p>
+</div>
 
-**Ritwik Gupta (UC Berkeley)**
+<div class="speaker">
+<h2>Ritwik Gupta (UC Berkeley)</h2>
 
-<img src="photos/RitwikGupta.jpg" alt="Gupta" width="100"/>
+<div class="speaker-img"><div style="background-image: url('photos/RitwikGupta.jpg')"></div></div>
 
-[Ritwik Gupta (he/him)](https://ritwikgupta.me/) is a Ph.D. student at the University of California, Berkeley. His research focus is on computer vision for humanitarian assistance and disaster response, as well as the development of policies related to the use of machine learning in developing areas. His research has been used widely by organizations such as the United Nations, CAL FIRE, and the International Red Cross. Ritwik is a Graduate Fellow with the Berkeley Risk and Security Lab, a Research Fellow at Berkeley’s Human Rights Center, and a Fellow at Berkeley’s AI Policy Hub. Ritwik is the Director of the Berkeley AI Research Climate Initiative which brings together researchers to work on AI research through the lens of climate change and helps to translate that work into real-world applications.
+<p><a href="https://ritwikgupta.me/">Ritwik Gupta (he/him)</a> is a Ph.D. student at the University of California, Berkeley. His research focus is on computer vision for humanitarian assistance and disaster response, as well as the development of policies related to the use of machine learning in developing areas. His research has been used widely by organizations such as the United Nations, CAL FIRE, and the International Red Cross. Ritwik is a Graduate Fellow with the Berkeley Risk and Security Lab, a Research Fellow at Berkeley’s Human Rights Center, and a Fellow at Berkeley’s AI Policy Hub. Ritwik is the Director of the Berkeley AI Research Climate Initiative which brings together researchers to work on AI research through the lens of climate change and helps to translate that work into real-world applications.</p>
+</div>
 
-**Margarita Geleta (UC Berkeley)**
+<div class="speaker">
+<h2>Margarita Geleta (UC Berkeley)</h2>
 
-<img src="photos/MargaritaGeleta.jpeg" alt="Geleta" width="100"/>
+<div class="speaker-img"><div style="background-image: url('photos/MargaritaGeleta.jpeg')"></div></div>
 
-[Margarita Geleta (she/her)](https://margaritageleta.github.io/) is a Ph.D. student at the University of California, Berkeley, affiliated with Berkeley AI Research (BAIR). She has led research on multimodal deep steganography at the Image Processing Group (UPC), developed algorithms for genotype compression, simulation, and imputation in the Bustamante Lab at the Stanford School of Medicine, and interned at Amazon.com as an Applied Scientist. In addition to teaching at UPC, UC Irvine, and tech academies, Margarita has organized workshops and career fairs with +200 participants and co-organized Europe's biggest student hackathon with +700 participants.
+<p><a href="https://margaritageleta.github.io">Margarita Geleta (she/her)</a> is a Ph.D. student at the University of California, Berkeley, affiliated with Berkeley AI Research (BAIR). She has led research on multimodal deep steganography at the Image Processing Group (UPC), developed algorithms for genotype compression, simulation, and imputation in the Bustamante Lab at the Stanford School of Medicine, and interned at Amazon.com as an Applied Scientist. In addition to teaching at UPC, UC Irvine, and tech academies, Margarita has organized workshops and career fairs with +200 participants and co-organized Europe's biggest student hackathon with +700 participants.</p>
+</div>
 
-**Mohamed Aziz Bhouri (Columbia University)**
+<div class="speaker">
+<h2>Mohamed Aziz Bhouri (Columbia University)</h2>
 
-<img src="photos/AzizBhouri.png" alt="Bhouri" width="100"/>
+<div class="speaker-img"><div style="background-image: url('photos/AzizBhouri.png')"></div></div>
 
-[Mohamed Aziz Bhouri (he/him)](https://gentinelab.eee.columbia.edu/people/aziz-bhouri) is an NSF AGS-PRF fellow postdoctoral researcher at Columbia University in Pr. Pierre Gentine’s lab. His work focuses on physics-informed machine learning, differentiable programming for systems calibration and Bayesian inference, with experience in Finite Element methods and model order reduction techniques. Dr. Bhouri is also affiliated with NSF Science and Technology Center “Learning the Earth with Artificial Intelligence and Physics” (LEAP) and  “Multiscale Machine Learning In Coupled Earth System Modeling” (M2LInES) project.
+<p><a href="https://gentinelab.eee.columbia.edu/people/aziz-bhouri">Mohamed Aziz Bhouri (he/him)</a> is an NSF AGS-PRF fellow postdoctoral researcher at Columbia University in Pr. Pierre Gentine’s lab. His work focuses on physics-informed machine learning, differentiable programming for systems calibration and Bayesian inference, with experience in Finite Element methods and model order reduction techniques. Dr. Bhouri is also affiliated with NSF Science and Technology Center “Learning the Earth with Artificial Intelligence and Physics” (LEAP) and  “Multiscale Machine Learning In Coupled Earth System Modeling” (M2LInES) project.</p>
+</div>
 
-**Tian Zheng (Columbia University)**
+<div class="speaker">
+<h2>Tian Zheng (Columbia University)</h2>
 
-<img src="photos/TianZheng.jpg" alt="Zheng" width="100"/>
+<div class="speaker-img"><div style="background-image: url('photos/TianZheng.jpg')"></div></div>
 
-[Tian Zheng (she/her)](https://stat.columbia.edu/~tzheng/) is Professor and Department Chair of Statistics at Columbia University. She is Chief Convergence Officer and Education Director of the NSF Science Technology Center “Learning the Earth with AI and Physics”. In her research, she develops novel methods for exploring and understanding patterns in complex data from different application domains such as biology, psychology, climate modeling, etc. In 2016, she designed Applied Data Science, a project-based learning course that offers mini data-intensive challenges. She was Associate Director for Education at Columbia’s Data Science Institute from 2017 to 2020 and a faculty advisor for Columbia Statistics Club from 2016 to 2021. She has organized and served as a judge in 10+ data competitions and hackathons. 
+<p><a href="https://stat.columbia.edu/~tzheng/">Tian Zheng (she/her)</a> is Professor and Department Chair of Statistics at Columbia University. She is Chief Convergence Officer and Education Director of the NSF Science Technology Center “Learning the Earth with AI and Physics”. In her research, she develops novel methods for exploring and understanding patterns in complex data from different application domains such as biology, psychology, climate modeling, etc. In 2016, she designed Applied Data Science, a project-based learning course that offers mini data-intensive challenges. She was Associate Director for Education at Columbia’s Data Science Institute from 2017 to 2020 and a faculty advisor for Columbia Statistics Club from 2016 to 2021. She has organized and served as a judge in 10+ data competitions and hackathons. </p>
+</div>
 
-**Yongquan Qu (Columbia University)**
+<div class="speaker">
+<h2>Yongquan Qu (Columbia University)</h2>
 
-<img src="photos/YongquanQu.jpg" alt="Qu" width="100"/>
+<div class="speaker-img"><div style="background-image: url('photos/YongquanQu.jpg')"></div></div>
 
-[Yongquan Qu (he/him)](https://yongquan-qu.github.io/) is a Ph.D. candidate at Columbia University. His primary research delves into the intersection of scientific machine learning and computational methods, aiming to enhance the modeling and understanding of turbulence in the atmospheric boundary layer. He also works on developing a hybrid framework that integrates probabilistic machine learning with data assimilation in the context of climate projections. He is a graduate research assistant of the NSF Science and Technology Center “Learning the Earth with Artificial Intelligence and Physics” (LEAP). He is also affiliated with the “Multiscale Machine Learning In Coupled Earth System Modeling” (M2LInES) project - an international collaborative project to improve climate models with scientific machine learning.
+<p><a href="https://yongquan-qu.github.io">Yongquan Qu (he/him)</a> is a Ph.D. candidate at Columbia University. His primary research delves into the intersection of scientific machine learning and computational methods, aiming to enhance the modeling and understanding of turbulence in the atmospheric boundary layer. He also works on developing a hybrid framework that integrates probabilistic machine learning with data assimilation in the context of climate projections. He is a graduate research assistant of the NSF Science and Technology Center “Learning the Earth with Artificial Intelligence and Physics” (LEAP). He is also affiliated with the “Multiscale Machine Learning In Coupled Earth System Modeling” (M2LInES) project - an international collaborative project to improve climate models with scientific machine learning.</p>
+</div>
 
-**Laura Mansfield (Stanford University)**
+<div class="speaker">
+<h2>Laura Mansfield (Stanford University)</h2>
 
-<img src="photos/LauraMansfield.jpg" alt="Mansfield" width="100"/>
+<div class="speaker-img"><div style="background-image: url('photos/LauraMansfield.jpg')"></div></div>
 
-[Laura Mansfield (she/her)](https://profiles.stanford.edu/laura-mansfield) is a postdoctoral researcher at Stanford University. Her research focuses on Bayesian statistics and machine learning methods for the development of subgrid-scale gravity wave parameterization in climate models, in order to improve the representation of stratospheric dynamics. She works on both the calibration of conventional gravity wave parameterizations and also on replacing these entirely with novel machine learning alternatives. She is particularly interested in uncertainty quantification of climate models. Previously, she completed her PhD in 2021 at the University of Reading, following the Mathematics of Planet Earth MRes at University of Reading in 2017 and an MSci in Physics at Imperial College London in 2016.
+<p><a href="https://profiles.stanford.edu/laura-mansfield">Laura Mansfield (she/her)</a> is a postdoctoral researcher at Stanford University. Her research focuses on Bayesian statistics and machine learning methods for the development of subgrid-scale gravity wave parameterization in climate models, in order to improve the representation of stratospheric dynamics. She works on both the calibration of conventional gravity wave parameterizations and also on replacing these entirely with novel machine learning alternatives. She is particularly interested in uncertainty quantification of climate models. Previously, she completed her PhD in 2021 at the University of Reading, following the Mathematics of Planet Earth MRes at University of Reading in 2017 and an MSci in Physics at Imperial College London in 2016.</p>
+</div>
 
-**Maja Rudolph (Bosch Research)**
+<div class="speaker">
+<h2>Maja Rudolph (Bosch Research)</h2>
 
-<img src="photos/MajaRudolph.jpg" alt="Rudolph" width="100"/>
+<div class="speaker-img"><div style="background-image: url('photos/MajaRudolph.jpg')"></div></div>
 
-[Maja Rudolph (she/her)](http://maja-rita-rudolph.com/) is a Senior Research Scientist at the Bosch Center for Artificial Intelligence, where she works in the field of deep probabilistic modeling. She completed her Ph.D. in Computer Science at Columbia University, advised by David Blei, in 2018. Maja holds an MS in Electrical Engineering from Columbia University and a BS in Mathematics from MIT. Her research lies at the intersection of Bayesian machine learning and deep learning, with a focus on deep probabilistic sequence models, neural transformation learning, and embedding methods. 
+<p><a href="http://maja-rita-rudolph.com">Maja Rudolph (she/her)</a> is a Senior Research Scientist at the Bosch Center for Artificial Intelligence, where she works in the field of deep probabilistic modeling. She completed her Ph.D. in Computer Science at Columbia University, advised by David Blei, in 2018. Maja holds an MS in Electrical Engineering from Columbia University and a BS in Mathematics from MIT. Her research lies at the intersection of Bayesian machine learning and deep learning, with a focus on deep probabilistic sequence models, neural transformation learning, and embedding methods. </p>
+</div>
+</div>
 
 # Anticipated audience size:
 
