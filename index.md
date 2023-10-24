@@ -32,6 +32,10 @@ end
 
 # Workshop summary
 
+<p align="center">
+  <img src="ClimSim.jpg" alt="ClimSim" width="500"/>
+</p>
+
 Long-term climate projections emphatically agree that we are headed for a warming world. However, much uncertainty remains in the expected magnitude of warming, the change in precipitation patterns, and the frequency of climate extremes. This uncertainty undermines the ability of policymakers and economic decision-makers to build consensus around measures for mitigating and adapting to a potentially irreversible, multi-trillion-dollar problem. Although improved understanding of physics has been essential to climate model improvement, reducing remaining uncertainty will require overcoming the increased computational expense of explicitly representing these physics at sub-resolution scales. Machine learning (ML) methods could provide tools for emulating subgrid climate processes at operationally viable costs. However, engaging the machine learning community on this task has been inhibited by high barriers of entry due to a lack of well-documented training data and relevant, easy-to-use workflows. [ClimSim](https://leap-stc.github.io/ClimSim/), a large multi-scale dataset for hybrid physics-ML climate emulation recently accepted in the Neurips 2023 Datasets and Benchmarks Track, was our first step toward filling this gap. The first part of the workshop features peer-reviewed contributions based on the ClimSim data set as part of a public challenge that we will organize before the workshop. The workshop's second part will feature experts' presentations on several frontiers of earth system modeling where machine learning is driving progress. It aims to cover methodological advances and open challenges that are fundamental for a wide range of disciplines relevant to improving climate predictability.
 
 
@@ -149,6 +153,19 @@ _All listed speakers have been confirmed._ The coffee breaks, poster sessions, Q
 <img src="photos/DavidRolnick.jpg" alt="Rolnick" width="100"/>
 
 [David Rolnick (he/him)](https://davidrolnick.com/) is an Assistant Professor and Canada CIFAR AI Chair in the School of Computer Science at McGill University and at Mila Quebec AI Institute, where his work focuses on applications of machine learning to help address climate change. He is a Co-founder and Chair of Climate Change AI and Scientific Co-director of Sustainability in the Digital Age. Dr. Rolnick received his Ph.D. in Applied Mathematics from MIT. He is a former NSF Mathematical Sciences Postdoctoral Research Fellow, NSF Graduate Research Fellow, and Fulbright Scholar, and was named to the MIT Technology Review's 2021 list of "35 Innovators Under 35."
+
+**Mike Pritchard (panelist)**
+
+<img src="photos/MikePritchard.jpeg" alt="Pritchard" width="100"/>
+
+[Mike Pritchard (he/him)](https://sites.ps.uci.edu/pritchard/) is the Director of Climate Simulation at NVIDIA, an associate professor of Earth System Science at UC Irvine, and the Institutional Integration Director for the NSF Learning the Earth with Artificial Intelligence and Physics (LEAP) Center. He works at the interface between next-generation climate simulation and machine learning. His main focus is on accelerating cloud-resolving climate simulations using physics-informed machine learning. He is also interested in reinforcement learning approaches to climate model calibration, understanding the limits of autoregressive weather simulations trained on observational data, and AI-assisted low-latency analysis of large high-resolution climate simulation datasets.
+
+**Galen McKinley (panelist)**
+
+<img src="photos/GalenMcKinley.jpg" alt="McKinley" width="100"/>
+
+[Galen McKinley (she/her)](https://galenmckinley.github.io/group/) is a Professor of Earth and Environmental Sciences at Columbia University and the Lamont-Doherty Earth Observatory. She is Deputy Director of the Center for Learning the Earth with Artificial Intelligence and Physics (LEAP), an NSF Science Technology Center (STC) for 2021-2026. Professor McKinley is an ocean, carbon cycle and climate scientist who uses machine learning with sparse ocean observations, as well as ocean and climate models, to understand the physical, chemical and ecological drivers of the ocean sink for anthropogenic carbon.
+
 
 # Organizers
 
