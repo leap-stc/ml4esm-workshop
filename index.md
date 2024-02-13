@@ -104,6 +104,16 @@ End                                                                             
 # Invited Speakers and Panelists
 
 <div class="speakers-grid">
+
+<div class="speaker">
+<h2>Kara Lamb <br>(Columbia University, US)</h2>
+
+<div class="speaker-img"><div style="background-image: url('photos/KaraLamb.jpeg')"></div></div>
+
+<p><a href="https://datascience.columbia.edu/people/kara-lamb/">Kara Lamb (she/her)</a> is an Associate Research Scientist at Columbia University. Her research lies at the intersection of observations and high-resolution modeling, with the goal of
+improving parameterizations of aerosol and cloud processes</p>
+</div>
+
 <div class="speaker">
 <h2>Maria Molina <br>(niversity of Maryland, College Park, US)</h2>
 <div class="speaker-img"><div style="background-image: url('photos/MariaMolina.jpeg')"></div></div>
@@ -114,14 +124,7 @@ understanding Earth system predictability and societal links in a changing clima
 </div>
 
 
-<div class="speaker">
-<h2>Kara Lamb <br>(Columbia University, US)</h2>
 
-<div class="speaker-img"><div style="background-image: url('photos/KaraLamb.jpeg')"></div></div>
-
-<p><a href="https://datascience.columbia.edu/people/kara-lamb/">Kara Lamb (she/her)</a> is an Associate Research Scientist at Columbia University. Her research lies at the intersection of observations and high-resolution modeling, with the goal of
-improving parameterizations of aerosol and cloud processes</p>
-</div>
 
 <div class="speaker">
 <h2>Stephan Mandt <br>(University of California, Irvine, US)</h2>
@@ -169,21 +172,6 @@ Institute where his work focuses on applications of machine learning to help add
 
 <div class="speakers-grid">
 <div class="speaker">
-<h2>Jerry Lin <br>(UC Irvine)</h2>
-
-<div class="speaker-img"><div style="background-image: url('photos/JerryLin.jpg')"></div></div>
-
-<p><a href="https://www.linkedin.com/in/jerry-lin-3a8801104/">Jerry Lin (he/him)</a> is a PhD candidate at UC Irvine
-and graduate research assistant in the NSF Learning the Earth with Artificial Intelligence and Physics
-(LEAP) Center working on neural network emulators of convection and radiation coupled inside climate
-models. His current work involves developing and coupling stochastic parameterizations, and he previously developed push-button capabilities for multi-hundred ensemble tests for coupled hybrid physics-ML
-climate simulations. He is a co-author and active maintainer for ClimSim and an organizer for the upcoming Kaggle competition. He has previously managed a student-run data science course at UC Berkeley. </p>
-
-<b>jerryL9 [at] uci [dot] edu</b>
-<b><a href="https://scholar.google.com/citations?hl=en&user=r8zHDdMAAAAJ">Google Scholar</a></b>
-</div>
-
-<div class="speaker">
 <h2>Ritwik Gupta <br>(UC Berkeley)</h2>
 
 <div class="speaker-img"><div style="background-image: url('photos/RitwikGupta.jpg')"></div></div>
@@ -201,20 +189,20 @@ into real-world applications.</p>
 </div>
 
 <div class="speaker">
-<h2>Margarita Geleta <br> (UC Berkeley & Stanford University)</h2>
+<h2>Laura Mansfield <br> (Stanford University)</h2>
 
-<div class="speaker-img"><div style="background-image: url('photos/MargaritaGeleta.jpeg')"></div></div>
+<div class="speaker-img"><div style="background-image: url('photos/LauraMansfield.jpg')"></div></div>
 
-<p><a href="https://margaritageleta.github.io">Margarita Geleta (she/her)</a> is a Ph.D. student at the University of California, Berkeley, affiliated with Berkeley AI Research (BAIR) and the Stanford Biomedical Data Science Department (Stanford DBDS). She
-has led research on multimodal deep steganography at the Image Processing Group (UPC), developed
-algorithms for genotype compression, simulation, and imputation in the Bustamante Lab at the Stanford
-School of Medicine, and interned at Amazon.com as an Applied Scientist. In addition to teaching at
-UPC, UC Irvine, and tech academies, Margarita has organized workshops and career fairs with +200
-participants and co-organized Europe’s biggest student hackathon with +700 participants. She will be
-participating virtually.</p>
+<p><a href="https://profiles.stanford.edu/laura-mansfield">Laura Mansfield (she/her)</a> is a postdoctoral researcher at
+Stanford University. Her research focuses on Bayesian statistics and machine learning methods for the
+development of subgrid-scale gravity wave parameterizations in climate models, in order to improve the
+representation of stratospheric dynamics. She works on both the calibration and uncertainty quantification of conventional and on machine learning parameterizations. She completed her Ph.D. in Gaussian
+processes for climate change projection from the University of Reading and Imperial College London in
+2021. She is the convener for the AGU session on Machine Learning Subgrid-Scale Parameterizations.
+She will be participating virtually.</p>
 
-<b>geleta [at] berkeley [dot] edu</b>
-<b><a href="https://scholar.google.com/citations?hl=en&user=jv-xu10AAAAJ">Google Scholar</a></b>
+<b>lauraman [at] stanford [dot] edu</b>
+<b><a href="https://scholar.google.com/citations?hl=en&user=edNb_cUAAAAJ">Google Scholar</a></b>
 </div>
 
 
@@ -237,6 +225,40 @@ hackathons. </p>
 </div>
 
 <div class="speaker">
+<h2>Margarita Geleta <br> (UC Berkeley & Stanford University)</h2>
+
+<div class="speaker-img"><div style="background-image: url('photos/MargaritaGeleta.jpeg')"></div></div>
+
+<p><a href="https://margaritageleta.github.io">Margarita Geleta (she/her)</a> is a Ph.D. student at the University of California, Berkeley, affiliated with Berkeley AI Research (BAIR) and the Stanford Biomedical Data Science Department (Stanford DBDS). She
+has led research on multimodal deep steganography at the Image Processing Group (UPC), developed
+algorithms for genotype compression, simulation, and imputation in the Bustamante Lab at the Stanford
+School of Medicine, and interned at Amazon.com as an Applied Scientist. In addition to teaching at
+UPC, UC Irvine, and tech academies, Margarita has organized workshops and career fairs with +200
+participants and co-organized Europe’s biggest student hackathon with +700 participants. She will be
+participating virtually.</p>
+
+<b>geleta [at] berkeley [dot] edu</b>
+<b><a href="https://scholar.google.com/citations?hl=en&user=jv-xu10AAAAJ">Google Scholar</a></b>
+</div>
+
+
+<div class="speaker">
+<h2>Jerry Lin <br>(UC Irvine)</h2>
+
+<div class="speaker-img"><div style="background-image: url('photos/JerryLin.jpg')"></div></div>
+
+<p><a href="https://www.linkedin.com/in/jerry-lin-3a8801104/">Jerry Lin (he/him)</a> is a PhD candidate at UC Irvine
+and graduate research assistant in the NSF Learning the Earth with Artificial Intelligence and Physics
+(LEAP) Center working on neural network emulators of convection and radiation coupled inside climate
+models. His current work involves developing and coupling stochastic parameterizations, and he previously developed push-button capabilities for multi-hundred ensemble tests for coupled hybrid physics-ML
+climate simulations. He is a co-author and active maintainer for ClimSim and an organizer for the upcoming Kaggle competition. He has previously managed a student-run data science course at UC Berkeley. </p>
+
+<b>jerryL9 [at] uci [dot] edu</b>
+<b><a href="https://scholar.google.com/citations?hl=en&user=r8zHDdMAAAAJ">Google Scholar</a></b>
+</div>
+
+
+<div class="speaker">
 <h2>Yongquan Qu <br>(Columbia University)</h2>
 
 <div class="speaker-img"><div style="background-image: url('photos/YongquanQu.jpg')"></div></div>
@@ -253,22 +275,7 @@ of the NSF Science and Technology Center “Learning the Earth with Artificial I
 <b><a href="https://scholar.google.com/citations?hl=en&user=LnBGvRoAAAAJ">Google Scholar</a></b>
 </div>
 
-<div class="speaker">
-<h2>Laura Mansfield <br> (Stanford University)</h2>
 
-<div class="speaker-img"><div style="background-image: url('photos/LauraMansfield.jpg')"></div></div>
-
-<p><a href="https://profiles.stanford.edu/laura-mansfield">Laura Mansfield (she/her)</a> is a postdoctoral researcher at
-Stanford University. Her research focuses on Bayesian statistics and machine learning methods for the
-development of subgrid-scale gravity wave parameterizations in climate models, in order to improve the
-representation of stratospheric dynamics. She works on both the calibration and uncertainty quantification of conventional and on machine learning parameterizations. She completed her Ph.D. in Gaussian
-processes for climate change projection from the University of Reading and Imperial College London in
-2021. She is the convener for the AGU session on Machine Learning Subgrid-Scale Parameterizations.
-She will be participating virtually.</p>
-
-<b>lauraman [at] stanford [dot] edu</b>
-<b><a href="https://scholar.google.com/citations?hl=en&user=edNb_cUAAAAJ">Google Scholar</a></b>
-</div>
 
 <div class="speaker">
 <h2>Maja Rudolph <br>(Bosch Research)</h2>
