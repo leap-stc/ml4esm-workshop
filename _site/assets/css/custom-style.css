@@ -7,12 +7,12 @@
 
 .page-header {
     background-color: var(--primary) !important; 
-    background-image: url("https://images.unsplash.com/photo-1693491228225-0095ad2672d8?auto=format&fit=crop&q=80&w=3450&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    /*background-image: url("https://images.unsplash.com/photo-1693491228225-0095ad2672d8?auto=format&fit=crop&q=80&w=3450&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");*/
     background-size: cover;
     background-position: center top;
 }
 
-.project-name {
+.project-name, .project-tagline {
     text-shadow: 0px 0px 15px rgb(0 80 40) !important;
 }
 
@@ -67,6 +67,10 @@
 h1 {
     width: 100% !important;
     text-align: center !important;
+}
+
+h2 {
+    opacity: 1;
 }
 
 .project-tagline {
