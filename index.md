@@ -110,21 +110,42 @@ End                                                                             
 
 <div class="speaker-img"><div style="background-image: url('photos/KaraLamb.jpeg')"></div></div>
 
-<p><a href="https://datascience.columbia.edu/people/kara-lamb/">Kara Lamb (she/her)</a> is an Associate Research Scientist at Columbia University. Her research lies at the intersection of observations and high-resolution modeling, with the goal of
-improving parameterizations of aerosol and cloud processes</p>
+<p><a href="https://datascience.columbia.edu/people/kara-lamb/">Kara Lamb (she/her)</a> is an Associate Research Scientist at Columbia University
+in the NSF Learning the Earth with Artificial Intelligence and Physics (LEAP) Center and collaborates
+with researchers at NASA GISS on the NASA Digital Twins for Climate Science Project. Her research
+lies at the intersection of observations (from laboratory and field studies) and high-resolution modeling,
+with the goal of improving climate model parameterizations of aerosol and cloud processes. She combines
+traditional process-based approaches with data science, scientific machine learning, and reduced-order
+modeling. She was on the science team for the NASA KORUS-AQ and AToM aircraft campaigns and
+the NOAA FIREX Firelab study, was the lead mentor for the 2022 Frontier Development Laboratory
+Europe challenge on Aerosols, and is a member of the AMS STAC Committee on AI Applications to
+Environmental Science.is an Associate Research Scientist at Columbia University
+in the NSF Learning the Earth with Artificial Intelligence and Physics (LEAP) Center and collaborates
+with researchers at NASA GISS on the NASA Digital Twins for Climate Science Project. Her research
+lies at the intersection of observations (from laboratory and field studies) and high-resolution modeling,
+with the goal of improving climate model parameterizations of aerosol and cloud processes. She combines
+traditional process-based approaches with data science, scientific machine learning, and reduced-order
+modeling. She was on the science team for the NASA KORUS-AQ and AToM aircraft campaigns and
+the NOAA FIREX Firelab study, was the lead mentor for the 2022 Frontier Development Laboratory
+Europe challenge on Aerosols, and is a member of the AMS STAC Committee on AI Applications to
+Environmental Science.</p>
 </div>
 
 <div class="speaker">
-<h2>Maria Molina <br>(niversity of Maryland, College Park, US)</h2>
+<h2>Maria Molina <br>(University of Maryland, College Park, US)</h2>
 <div class="speaker-img"><div style="background-image: url('photos/MariaMolina.jpeg')"></div></div>
 
 <p><a href="https://mariajmolina.github.io">Maria J. Molina (she/her)</a> is an assistant professor of
-atmospheric and oceanic science at the University of Maryland. Her research group focuses on better
-understanding Earth system predictability and societal links in a changing climate.</p>
+atmospheric and oceanic science at the University of Maryland, College Park, USA. She is also affiliated
+with the University of Maryland Institute for Advanced Computer Studies (UMIACS) and the National
+Center for Atmospheric Research (NCAR). Her research group focuses on better understanding Earth sys-
+tem predictability in a changing climate, along with societal links, using machine learning and numerical
+physics-based modeling systems. Maria is a member of the World Climate Research Programme (WCRP)
+Scientific Steering Group for the Earth System Modelling and Observations (ESMO) Core Project, serves
+as Vice Chair of the Committee on Artificial Intelligence Applications to Environmental Science of the
+American Meteorological Society (AMS), and is a member of the AMS Board on Representation, Acces-
+sibility, Inclusion, and Diversity. </p>
 </div>
-
-
-
 
 <div class="speaker">
 <h2>Stephan Mandt <br>(University of California, Irvine, US)</h2>
@@ -132,8 +153,16 @@ understanding Earth system predictability and societal links in a changing clima
 <div class="speaker-img"><div style="background-image: url('photos/StephanMandt.jpg')"></div></div>
 
 <p><a href="http://www.stephanmandt.com/">Stephan Mandt (he/him)</a> is an Associate Professor of Computer
-Science and Statistics at the University of California, Irvine. His research interests include deep generative
-models, uncertainty quantification, and neural data compression.</p>
+Science and Statistics at the University of California, Irvine. From 2016 until 2018, he was a Senior
+Researcher and Head of the statistical machine learning group at Disney Research in Pittsburgh and
+Los Angeles. He held previous postdoctoral positions at Columbia University and Princeton University.
+Stephan holds a Ph.D. in Theoretical Physics from the University of Cologne, where he received the
+German National Merit Scholarship. He is furthermore a recipient of the NSF CAREER Award, the UCI
+ICS Mid-Career Excellence in Research Award, the German Research Foundation’s Mercator Fellowship,
+a Kavli Fellow of the U.S. National Academy of Sciences, a member of the ELLIS Society, and a former
+visiting researcher at Google Brain. Stephan is an Action Editor of the Journal of Machine Learning
+Research and Transaction on Machine Learning Research and currently serves as Program Chair for AIS-
+TATS 2024.</p>
 </div>
 
 <div class="speaker">
@@ -142,8 +171,15 @@ models, uncertainty quantification, and neural data compression.</p>
 <div class="speaker-img"><div style="background-image: url('photos/AditiKrishnapriyan.png')"></div></div>
 
 <p><a href="https://a1k12.github.io/">Aditi Krishnapriyan (she/her)</a> is an assistant professor of
-Chemical Engineering and EECS at UC Berkeley. She is interested in developing methods motivated by
-challenges in the natural sciences, with particular interest in physics-inspired machine learning methods.</p>
+Chemical Engineering and EECS at UC Berkeley where she is also a member of Berkeley AI Research
+(BAIR) and part of the AI+Science group in EECS and the theory group in Chemical Engineering.
+She is interested in developing methods in machine learning that are driven by the distinct challenges
+and opportunities in the natural sciences, with particular interest in physics-inspired machine learning
+methods. Some areas of exploration include approaches to incorporate physical inductive biases (such
+as symmetries, conservation laws) into ML models to improve generalization for scientific problems, the
+advantages that ML can bring to classical physics-based numerical solvers (such as through end-to-end
+differentiable frameworks and implicit layers), and better learning strategies for distribution shifts in the
+physical sciences. </p>
 </div>
 
 <div class="speaker">
@@ -151,9 +187,14 @@ challenges in the natural sciences, with particular interest in physics-inspired
 
 <div class="speaker-img"><div style="background-image: url('photos/NilsThuerey.jpg')"></div></div>
 
-<p><a href="https://ge.in.tum.de/about/n-thuerey/">Nils Thuerey (he/him)</a> is an associate computer science
-professor at the Technical University of Munich (TUM) where he leads a research group working on deep
-learning methods for physical simulations, with an emphasis on fluid flow problems.</p>
+<p><a href="https://ge.in.tum.de/about/n-thuerey/">Nils Thuerey (he/him)</a> is an associate professor at the
+computer science department of the Technical University of Munich (TUM) where he leads a research
+group working on deep learning methods for physical simulations, with an emphasis on fluid flow prob-
+lems. He has co-authored a freely available, Jupyter based textbook on physics-based deep learning, and
+his group has pioneered novel methods for improving the stability, rollout, and physical consistency of
+neural network-based PDE solvers. He is especially interested in solvers that employ traditional numerics
+alongside learned components, and, more recently, in leveraging diffusion modelling for improved neural
+simulations. </p>
 </div>
 
 <div class="speaker">
@@ -163,7 +204,11 @@ learning methods for physical simulations, with an emphasis on fluid flow proble
 
 <p><a href="https://davidrolnick.com/">David Rolnick (he/him)</a> is an Assistant Professor and
 Canada CIFAR AI Chair in the School of Computer Science at McGill University and at Mila Quebec AI
-Institute where his work focuses on applications of machine learning to help address climate change.</p>
+Institute, where his work focuses on applications of machine learning to help address climate change. He
+is a Co-founder and Chair of Climate Change AI and Scientific Co-director of Sustainability in the Digital
+Age. Dr. Rolnick received his Ph.D. in Applied Mathematics from MIT. He is a former NSF Mathematical
+Sciences Postdoctoral Research Fellow, NSF Graduate Research Fellow, and Fulbright Scholar, and was
+named to the MIT Technology Review’s 2021 list of “35 Innovators Under 35. </p>
 </div>
 
 </div>
