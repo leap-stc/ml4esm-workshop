@@ -119,15 +119,6 @@ traditional process-based approaches with data science, scientific machine learn
 modeling. She was on the science team for the NASA KORUS-AQ and AToM aircraft campaigns and
 the NOAA FIREX Firelab study, was the lead mentor for the 2022 Frontier Development Laboratory
 Europe challenge on Aerosols, and is a member of the AMS STAC Committee on AI Applications to
-Environmental Science.is an Associate Research Scientist at Columbia University
-in the NSF Learning the Earth with Artificial Intelligence and Physics (LEAP) Center and collaborates
-with researchers at NASA GISS on the NASA Digital Twins for Climate Science Project. Her research
-lies at the intersection of observations (from laboratory and field studies) and high-resolution modeling,
-with the goal of improving climate model parameterizations of aerosol and cloud processes. She combines
-traditional process-based approaches with data science, scientific machine learning, and reduced-order
-modeling. She was on the science team for the NASA KORUS-AQ and AToM aircraft campaigns and
-the NOAA FIREX Firelab study, was the lead mentor for the 2022 Frontier Development Laboratory
-Europe challenge on Aerosols, and is a member of the AMS STAC Committee on AI Applications to
 Environmental Science.</p>
 </div>
 
