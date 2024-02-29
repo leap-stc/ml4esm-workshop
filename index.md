@@ -123,19 +123,10 @@ Environmental Science.</p>
 </div>
 
 <div class="speaker">
-<h2>Maria Molina <br>(University of Maryland, College Park, US)</h2>
-<div class="speaker-img"><div style="background-image: url('photos/MariaMolina.jpeg')"></div></div>
+<h2>Julia Kaltenborn <br>(McGill University & Mila Quebec AI Institute)</h2>
+<div class="speaker-img"><div style="background-image: url('photos/JuliaKaltenborn.png')"></div></div>
 
-<p><a href="https://mariajmolina.github.io">Maria J. Molina (she/her)</a> is an assistant professor of
-atmospheric and oceanic science at the University of Maryland, College Park, USA. She is also affiliated
-with the University of Maryland Institute for Advanced Computer Studies (UMIACS) and the National
-Center for Atmospheric Research (NCAR). Her research group focuses on better understanding Earth sys-
-tem predictability in a changing climate, along with societal links, using machine learning and numerical
-physics-based modeling systems. Maria is a member of the World Climate Research Programme (WCRP)
-Scientific Steering Group for the Earth System Modelling and Observations (ESMO) Core Project, serves
-as Vice Chair of the Committee on Artificial Intelligence Applications to Environmental Science of the
-American Meteorological Society (AMS), and is a member of the AMS Board on Representation, Acces-
-sibility, Inclusion, and Diversity. </p>
+<p><a href="https://juliakaltenborn.github.io/"> Julia Kaltenborn (she/her)</a> is a PhD student at McGill University and the Mila-Quebec AI Institute. She explores machine learning for climate model emulation and cryospheric sciences. She focuses on creating ML resources that can be used cross-disciplinarily, such as ClimateSet, and developing ML models that are actively used in the field, e.g., by MOSAiC, the largest polar expedition in history. Julia co-founded the NGO Unser Dialog, co-organized AI Helps Ukraine, and was a local Greenpeace leader in her youth. She has been a fellow of the German Academic Scholarship Foundation, received the Mitacs Globalink Research Fellowship, and was a DeepMind scholar. Last but not least, Julia was a member of the Juneau Icefield Research Expedition 2023 and has traversed the Juneau Icefield. </p>
 </div>
 
 <div class="speaker">
