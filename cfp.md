@@ -17,11 +17,15 @@ We are currently accepting submissions of short papers investigating machine lea
 - anomaly detection
 - parameter estimation for climate models
 
-The deadline for all submissions is June 17, 2024 (AOE).
+| **Submission link** | TBD |
+| **Submission opens** | TBD |
+| **Submission deadline** | TBD |
+| **Notification date** | Monday, June 17, 2024 (23:59 AoE) |
+
 
 # Submission requirements
 
-Papers must be 4 pages long, and author names must be omitted prior to submission. Submissions must clearly articulate applications relevant to earth system modelling. Accepted papers will be invited to give poster presentations, and a total of six will be invited to give spotlight talks. 
+We welcome papers for up to **4 pages** in length, excluding reference and supplementary materials. See information on [Author Instructions](https://icml.cc/Conferences/2024/AuthorInstructions), [LaTeX style files](https://media.icml.cc/Conferences/ICML2024/Styles/icml2024.zip) and an [Example Paper](https://media.icml.cc/Conferences/ICML2023/Styles/example_paper.pdf). Submissions must clearly articulate applications relevant to earth system modelling. Accepted papers will be invited to give poster presentations, and a total of six will be invited to give spotlight talks. 
 
 # Review Process
 
