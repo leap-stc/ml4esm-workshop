@@ -54,6 +54,33 @@ dedicated opportunities for cross-fertilization of ideas are rare, and machine l
 make an impact may not be aware of domain science research directions most in need of their expertise.
 This workshop directly addresses both of these challenges.
 
+# Workshop time and location
+
+July 26, 2024 or July 27, 2024 (TBD)
+Vienna, Austria
+
+# Call for papers
+
+We are currently accepting submissions of short papers investigating machine learning techniques with the potential to advance earth system modelling. Topics include but are not limited to:
+
+- hybrid physics-ML climate modelling
+- full model emulation for weather and climate
+- differentiable climate modelling
+- dynamical downscaling
+- uncertainty quantification
+- anomaly detection
+- parameter estimation for climate models
+
+The deadline for all submissions is June 17, 2024 (AOE).
+
+# Submission requirements
+
+Papers must be 4 pages long, and author names must be omitted prior to submission. Submissions must clearly articulate applications relevant to earth system modelling. Accepted papers will be invited to give poster presentations, and a total of six will be invited to give spotlight talks. 
+
+# Review Process
+
+The review process for this workshop is double-blind, and we are accumulating a pool of reviewers with relevant expertise.
+
 # Workshop format
 
 This program consists of invited and contributed talks, two poster sessions, and
@@ -341,11 +368,9 @@ trained on observational data, and AI-assisted low-latency analysis of large hig
 </div>
 
 
-# Review Process
 
-The review process for this workshop is double-blind, and we are accumulating a pool of reviewers with relevant expertise. Reviewers will not be given submissions from their home
-institution, and we will seek input from organizers of related workshops for reviewer recommendations to
-ensure a balanced and fair review process.
+
+
 
 # Diversity Commitment
 
