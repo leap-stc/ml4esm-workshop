@@ -1,6 +1,3 @@
----
-layout: default
----
 # Call for papers
 
 We are currently accepting submissions of short papers investigating machine learning techniques with the potential to advance earth system modelling. Topics include but are not limited to:
